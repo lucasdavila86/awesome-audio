@@ -8,3 +8,6 @@
 
 ## DIY guides
 - [PiFX](https://medium.com/@atippy83/guitarix-the-pi-dle-board-8d6298ca8e42) - A Raspberry Pi-Based Pedal Board.
+
+## More resources
+- [awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) - Curated list of python software and packages related to scientific research in audio.
