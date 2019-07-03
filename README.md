@@ -11,5 +11,7 @@
 
 ## MIDI
 - [Web MIDI](https://www.midi.org/17-the-mma/99-web-midi) - MIDI Support in Web Browsers
+- [webmidi](https://github.com/djipco/webmidi) - WebMidi.js helps you tame the Web MIDI API. Send and receive MIDI messages with ease. Control instruments with user-friendly functions (playNote, sendPitchBend, etc.). React to MIDI input with simple event listeners (noteon, pitchbend, controlchange, etc.).
+
 ## More resources
 - [awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) - Curated list of python software and packages related to scientific research in audio.
