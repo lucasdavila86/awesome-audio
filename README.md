@@ -3,6 +3,7 @@
 - [Guitarix](https://guitarix.org/)
 - [LinuxAudio](http://linuxaudio.org)
 - [LinuxAudio Members](http://linuxaudio.org/members.html)
+- [lmms](https://github.com/LMMS/lmms) - Cross-platform music production software.
 - [Music Made With Linux](https://wiki.linuxaudio.org/apps/categories/music_made_with_linux)
 - [Qtractor](http://qtractor.org/) - Qtractor is an Audio/MIDI multi-track sequencer application written in C++ with the Qt framework.
 
