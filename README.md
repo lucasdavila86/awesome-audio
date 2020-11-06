@@ -17,6 +17,7 @@
 ## Synth
 - [fluidsynth](https://github.com/FluidSynth/fluidsynth) - Software synthesizer based on the SoundFont 2 specifications.
 - [Qsynth](https://qsynth.sourceforge.io/) - Qsynth is a fluidsynth GUI front-end application.
+- [Zynthian](https://zynthian.org/) - the Open Synth Platform, based in Raspberry Pi and Free Software.
 
 ## More resources
 - [awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) - Curated list of python software and packages related to scientific research in audio.
