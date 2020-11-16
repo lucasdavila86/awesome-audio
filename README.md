@@ -10,6 +10,9 @@
 ## DIY guides
 - [PiFX](https://medium.com/@atippy83/guitarix-the-pi-dle-board-8d6298ca8e42) - A Raspberry Pi-Based Pedal Board.
 
+## RaspberryPI
+- [mt32-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator based on Circle and Munt.
+
 ## MIDI
 - [Web MIDI](https://www.midi.org/17-the-mma/99-web-midi) - MIDI Support in Web Browsers
 - [webmidi](https://github.com/djipco/webmidi) - WebMidi.js helps you tame the Web MIDI API. Send and receive MIDI messages with ease. Control instruments with user-friendly functions (playNote, sendPitchBend, etc.). React to MIDI input with simple event listeners (noteon, pitchbend, controlchange, etc.).
