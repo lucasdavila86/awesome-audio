@@ -25,3 +25,19 @@
 
 ## More resources
 - [awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) - Curated list of python software and packages related to scientific research in audio.
+
+## Web - JS Audio
+
+- [web audio api](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) - web audio api is the most basic building block for audio on the web.
+
+- [howler-js](https://github.com/goldfire/howler.js) - howler.js is an audio library for the modern web. It defaults to Web Audio API and falls back to HTML5 Audio. This makes working with audio in JavaScript easy and reliable across all platforms.
+
+- [tone-js](https://tonejs.github.io/) - Tone.js is a Web Audio framework for creating interactive music in the browser. The architecture of Tone.js aims to be familiar to both musicians and audio programmers creating web-based audio applications. On the high-level, Tone offers common DAW (digital audio workstation) features like a global transport for synchronizing and scheduling events as well as prebuilt synths and effects. Additionally, Tone provides high-performance building blocks to create your own synthesizers, effects, and complex control signals.
+
+- [amplitude-js](https://github.com/521dimensions/amplitudejs) - AmplitudeJS is a lightweight JavaScript library that allows you to control the design of your media controls in your webpage -- not the browser. No dependencies (jQuery not required). AmplitudeJS is available under the MIT License.
+
+- [peak.js](https://github.com/bbc/peaks.js) - Peaks.js was developed by BBC R&D to allow users to make accurate clippings of audio content in the browser, using a backend API that serves the waveform data.
+
+  Peaks.js uses the HTML canvas element to display the waveform at different zoom levels, and has configuration options to allow you to customize the waveform views. Peaks.js allows users to interact with the waveform views, including zooming and scrolling, and creating point or segment markers that denote content to be clipped or for reference, e.g., distinguishing music from speech or identifying different music tracks.
+
+- [Tuna](https://github.com/Theodeus/tuna) - An audio effects library for the Web Audio API.
