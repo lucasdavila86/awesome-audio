@@ -23,6 +23,9 @@
 - [Qsynth](https://qsynth.sourceforge.io/) - Qsynth is a fluidsynth GUI front-end application.
 - [Zynthian](https://zynthian.org/) - the Open Synth Platform, based in Raspberry Pi and Free Software.
 
+## Effects
+- [pedalboard](https://github.com/spotify/pedalboard) - A Python library for adding effects to audio.
+
 ## More resources
 - [awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) - Curated list of python software and packages related to scientific research in audio.
 - [rncbc projects](https://www.rncbc.org/drupal/node/13) - Project list by the Qtractor developer.
