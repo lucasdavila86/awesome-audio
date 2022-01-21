@@ -21,6 +21,7 @@
 ## Synth
 - [fluidsynth](https://github.com/FluidSynth/fluidsynth) - Software synthesizer based on the SoundFont 2 specifications.
 - [Qsynth](https://qsynth.sourceforge.io/) - Qsynth is a fluidsynth GUI front-end application.
+- [Surge](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge).
 - [Zynthian](https://zynthian.org/) - the Open Synth Platform, based in Raspberry Pi and Free Software.
 
 ## Effects
@@ -31,7 +32,6 @@
 - [rncbc projects](https://www.rncbc.org/drupal/node/13) - Project list by the Qtractor developer.
 
 ## Web - JS Audio
-
 - [web audio api](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) - web audio api is the most basic building block for audio on the web.
 - [howler-js](https://github.com/goldfire/howler.js) - howler.js is an audio library for the modern web. It defaults to Web Audio API and falls back to HTML5 Audio. This makes working with audio in JavaScript easy and reliable across all platforms.
 - [tone-js](https://tonejs.github.io/) - Tone.js is a Web Audio framework for creating interactive music in the browser. The architecture of Tone.js aims to be familiar to both musicians and audio programmers creating web-based audio applications. On the high-level, Tone offers common DAW (digital audio workstation) features like a global transport for synchronizing and scheduling events as well as prebuilt synths and effects. Additionally, Tone provides high-performance building blocks to create your own synthesizers, effects, and complex control signals.
