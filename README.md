@@ -6,6 +6,7 @@
 - [lmms](https://github.com/LMMS/lmms) - Cross-platform music production software.
 - [Music Made With Linux](https://wiki.linuxaudio.org/apps/categories/music_made_with_linux)
 - [Qtractor](http://qtractor.org/) - Qtractor is an Audio/MIDI multi-track sequencer application written in C++ with the Qt framework.
+- [radium](https://github.com/kmatheussen/radium) - A graphical music editor. A next generation tracker.
 - [yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2 and VST3 plugins on Linux.
 
 ## DIY guides
