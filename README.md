@@ -8,6 +8,7 @@
 - [Qtractor](http://qtractor.org/) - Qtractor is an Audio/MIDI multi-track sequencer application written in C++ with the Qt framework.
 - [radium](https://github.com/kmatheussen/radium) - A graphical music editor. A next generation tracker.
 - [yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2 and VST3 plugins on Linux.
+- [zrythm](https://github.com/zrythm/zrythm) - A highly automated and intuitive digital audio workstation.
 
 ## DIY guides
 - [PiFX](https://medium.com/@atippy83/guitarix-the-pi-dle-board-8d6298ca8e42) - A Raspberry Pi-Based Pedal Board.
